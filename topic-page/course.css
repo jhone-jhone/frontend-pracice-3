@@ -40,6 +40,8 @@ body{
     padding: 16px;
 }
 
+@media (prefers-color-scheme: dark)  { }
+@media (prefers-color-scheme: light) { }
 @media (min-width:992px){
     .course-card{padding: 24px;}
 }
